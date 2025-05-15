@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.swp
+*.trn
+.android/
+.dotnet/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
